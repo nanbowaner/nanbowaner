@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/website?down_message=offline&label=archive.ph&up_message=online&url=https%3A%2F%2Farchive.ph%2F)
 
+![](https://img.shields.io/website?down_message=offline&label=cloud.disroot&up_message=online&url=https%3A%2F%2Fcloud.disroot.org%2F)
