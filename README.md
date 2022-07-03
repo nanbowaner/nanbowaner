@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/website?down_message=offline&label=inoreader&up_message=online&url=https%3A%2F%2Fwww.inoreader.com)
 
+![](https://img.shields.io/website?down_message=offline&label=archive.ph&up_message=online&url=https%3A%2F%2Farchive.ph%2F)
 
