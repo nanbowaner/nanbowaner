@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=nanbowaner&theme=dark)
 
-https://img.shields.io/website?down_message=offline&label=cmx&up_message=online&url=https%3A%2F%2Fm.cmx.im
+![](https://img.shields.io/website?down_message=offline&label=cmx&up_message=online&url=https%3A%2F%2Fm.cmx.im)
