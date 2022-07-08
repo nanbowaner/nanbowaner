@@ -38,6 +38,6 @@ Here are some ideas to get you started:
   
   
   
-![](https://bingpic.wd-api.com/latest.jpeg)
+
 
 <img src="https://bingpic.wd-api.com/latest.jpeg" alt="RSSHub" width="500">
