@@ -40,4 +40,4 @@ Here are some ideas to get you started:
   
 
 
-<img src="https://bingpic.wd-api.com/latest.jpeg" alt="RSSHub" width="500">
+<img src="https://bingpic.wd-api.com/latest.jpeg" width="500">
