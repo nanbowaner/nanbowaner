@@ -19,7 +19,14 @@ Here are some ideas to get you started:
 
 [微信文章存档](https://github.com/nanbowaner/duty-machine/issues?q=is%3Aissue+is%3Aclosed)  
 
-[云足迹](https://github.com/nanbowaner/note/issues/1)
+[云足迹](https://github.com/nanbowaner/note/issues/1)  
+
+
+
+|uptime|  |  |  |
+|---|:---:|---:|---:|
+|内容|内容|内容|内容|
+|内容|内容|内容|内容|
 
 
 
