@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=nanbowaner&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=nanbowaner&theme=dark)  
+
+[微信文章存档](https://github.com/nanbowaner/duty-machine/issues?q=is%3Aissue+is%3Aclosed)
 
 
 
