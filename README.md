@@ -16,7 +16,7 @@
 
 [网站导航 - H](https://github.com/nanbowaner/databk/blob/main/files/%E5%AF%BC%E8%88%AA%E7%BD%91%E7%AB%99%20-%20NSFW.md)  
 
-[All About ACG](https://github.com/nanbowaner/databk/blob/main/files/ACG.md)  
+
 
 ***
 
